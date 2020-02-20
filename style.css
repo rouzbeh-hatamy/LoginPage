@@ -1,0 +1,59 @@
+body{
+    background-image: url(./bg.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    direction: rtl;
+}
+.box{
+    margin: auto;
+    width: 50%;
+}
+.header{
+    margin-top: 2.5cm;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+.description{
+    color: white;
+    text-align: center;
+}
+.box2{
+    margin: auto;
+    width: 30%;
+    
+}
+.input{
+    background-color: unset;
+    width: 100%;
+    padding: 25px 0 ;
+    border: none;
+    border-bottom: white 2px solid;
+    display: block;
+    margin: auto;
+}
+::placeholder{
+    color: white;
+}
+.btn{
+    background-color: dodgerblue;
+    margin-top: 15px;
+    padding: 12px 12px;
+    border: none;
+    display: block;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 30px;
+}
+.write{
+    margin-top: 10px;
+}
+.p1{
+    color: white;
+    display: inline;
+}
+.p2{
+    color: white;
+    display: inline;
+    margin-right: 85px;
+}
